@@ -5,6 +5,14 @@ on:
     - cron: '0 */3 * * *'
   workflow_dispatch: # Allows you to run it manually anytime
 
+# CRITICAL: Grant write permissions so the runner can push changes back to the repo
+permissions:
+  contents: write
+
+# Fix Node.js 20 deprecation warning by forcing Node 24
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   merge:
     runs-on: ubuntu-latest
@@ -21,26 +29,38 @@ jobs:
       run: |
         python -c '
         import urllib.request
+        import ssl
 
-        # Paster your actual M3U links inside the brackets below, separated by commas
         urls = [
             "https://modsmz.github.io/ch/sports.m3u",
             "https://raw.githubusercontent.com/Ajayone8x/sportzx-playlist/refs/heads/main/Sportzx.m3u8"
         ]
 
+        # Ignore basic SSL verification issues if they arise
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+
+        content_written = False
+
         with open("combined.m3u", "w", encoding="utf-8") as outfile:
             outfile.write("#EXTM3U\n")
             for url in urls:
                 try:
-                    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-                    with urllib.request.urlopen(req) as response:
+                    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+                    with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
                         lines = response.read().decode("utf-8").splitlines()
                         for line in lines:
-                            if line.strip() == "#EXTM3U" or line.strip() == "":
+                            if line.strip() == "#EXTM3U" or not line.strip():
                                 continue
                             outfile.write(line + "\n")
+                            content_written = True
                 except Exception as e:
                     print(f"Error reading {url}: {e}")
+        
+        # If no streams were fetched, raise an error to stop a blank file from being pushed
+        if not content_written:
+            print("Warning: No playlist data was successfully fetched.")
         '
 
     - name: Commit and Push changes
@@ -48,5 +68,10 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         git add combined.m3u
-        git commit -m "Automated M3U Playlist Update" || exit 0
-        git push
+        # Only commit and push if the file actually changed
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Automated M3U Playlist Update"
+          git push
+        fi
