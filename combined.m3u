@@ -20,8 +20,12 @@ https://fortune-proxy.channelbur21.workers.dev/
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MNTV.mm " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/330px-Myanmar_National_TV_Logo.jpg" group-title="Myanmar Tv" ,MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MEntertainmentChannel.mm " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvLgqJiFy4b0IbqqBeyj-j903OjgUC7PnVg&s" group-title="Myanmar Tv" ,Channel ME
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MEntertainmentChannel.mm " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvLgqJiFy4b0IbqqBeyj-j903OjgUC7PnVg&s" group-title="Myanmar Tv" ,tvg-ID ME
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1909816536.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" TVM.mm " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvm-mm.png" group-title="Myanmar Tv" ,TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" GoldenLand.mm " tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-land-mm.png" group-title="Myanmar Tv" ,Golden Land
+http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="formula11230skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 12:30 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -107,6 +111,8 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
+#EXTINF:-1 tvg-id="wweraw0100wwelivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Raw 01:00 (WWE LIVE FHD)
+https://nh5.hocloud.cfd/live/wwe/stream.m3u8
 #EXTINF:-1 tvg-id="wweraw0100sportzxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Raw 01:00 (SportzX HD)
 https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wweraw0100backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Raw 01:00 (Backup SD)
@@ -177,73 +183,39 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="clevelandcavaliers0100espnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 01:00 (ESPN SPORTS FHD)
+#EXTINF:-1 tvg-id="oklahomacitythunder0130tsnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder 01:30 (TSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121
-https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093723/219038-321034/manifest-d.mpd
-#EXTINF:-1 tvg-id="clevelandcavaliers0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 01:00 (HD SERVER)
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="oklahomacitythunder0130hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder 01:30 (HD SERVER)
 https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="carolinahurricanes0100setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (SETANTA SPORTS)
+#EXTINF:-1 tvg-id="coloradoavalanche0200premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Colorado Avalanche 02:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6547dbaa76c54917b68b90cfc9c606dc:e82672e5d155441da8e2d2b111b6d584
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779737054~acl=%2F*~id=91b2b77c-5acf-4562-a302-81dfd4e0db31~data=hdntl,aXA9MTcyLjE4NS4xNjcuMzYmZXhwPTE3Nzk2NTA2ODQmZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1FcVo5d2d8YmY4MTQ1ODAtMWFjMy00NjczLWFhMDktMDhlMjI1Y2NkMDFhJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=e3d75e1fd221b2be35a0c17a3e03975e84b24153ab4ec4f7ac54eb335251287b/dash/live/2019654/303496-322029/manifest-d.mpd
-#EXTINF:-1 tvg-id="carolinahurricanes0100premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-id="carolinahurricanes0100espnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (ESPN SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
-https://dice-live-oc.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2093724/219039-321035/manifest-d.mpd
-#EXTINF:-1 tvg-id="carolinahurricanes0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (HD SERVER)
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="coloradoavalanche0200hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Colorado Avalanche 02:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="paderbornvswolfsburg1930beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Paderborn vs Wolfsburg 19:30 (beIN ENGLISH)
+#EXTINF:-1 tvg-id="hampshirevsessex1900skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Hampshire vs Essex 19:00 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-id="paderbornvswolfsburg1930sportvbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Paderborn vs Wolfsburg 19:30 (SporTV BR)
+#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
+https://dice-live-oc.akamaized.net/hdntl=exp=1779876395~acl=%2F*~id=06a6ed72-5ae0-43a8-8362-5cab0c434026~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjUmZWlkPTk2MjYzNyZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=51aa3b2bd28bd8405403b15f847fd0222ae1302b5173723be6ab42c91872509e/dash/live/2093720/219029-321032/manifest-d.mpd
+#EXTINF:-1 tvg-id="hampshirewvsessexw1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Hampshire W vs Essex W 15:00 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-#EXTINF:-1 tvg-id="paderbornvswolfsburg1930skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Paderborn vs Wolfsburg 19:30 (SKY BUNDESLIGA SD)
-https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nottscountyvssalfordcity1500setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Notts County vs Salford City 15:00 (SETANTA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bd8a422acf6481ca386312429058070:a8ae987bf3654b089605d987b78fcaa7
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779790787~acl=%2F*~id=284decba-7860-4f39-b74c-4255087b3a1c~data=hdntl,aXA9MTMuODMuMTYyLjQxJmV4cD0xNzc5NzA0NDE2JmVpZD05NjI2Mzcmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9NmhuOVdjfGM1MDA1YzYxLWQ5YzMtNGYyMC1iMDc4LTMyNGM3MTliNWFiZCZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=2dc323600917b12047650fdcf64761e764372b75814de40e01f884b3430eb515/dash/live/2001567/303310-322032/manifest-d.mpd
-#EXTINF:-1 tvg-id="nottscountyvssalfordcity1500beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Notts County vs Salford City 15:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="nottscountyvssalfordcity1500cbsnetwork" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Notts County vs Salford City 15:00 (CBS NETWORK)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="stmirrenvspartickthistle2000beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Scottish premiership",St. Mirren vs Partick Thistle 20:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="stmirrenvspartickthistle2000cbsnetwork" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Scottish premiership",St. Mirren vs Partick Thistle 20:00 (CBS NETWORK)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="coritibavsbahia0000sportvbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Coritiba vs Bahia 00:00 (SporTV BR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-#EXTINF:-1 tvg-id="usavshungary1520tsnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",USA vs Hungary 15:20 (TSN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-id="czechiavsnorway1520tsnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Czechia vs Norway 15:20 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
+https://dice-live-oc.akamaized.net/hdntl=exp=1779876395~acl=%2F*~id=06a6ed72-5ae0-43a8-8362-5cab0c434026~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjUmZWlkPTk2MjYzNyZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=51aa3b2bd28bd8405403b15f847fd0222ae1302b5173723be6ab42c91872509e/dash/live/2093720/219029-321032/manifest-d.mpd
+#EXTINF:-1 tvg-id="usavsaustria1520tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",USA vs Austria 15:20 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-#EXTINF:-1 tvg-id="sloveniavsitaly1920tsnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Slovenia vs Italy 19:20 (TSN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-#EXTINF:-1 tvg-id="germanyvsgreatbritain1920tsnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Germany vs Great Britain 19:20 (TSN SPORTS)
+#EXTINF:-1 tvg-id="swedenvsslovakia1520tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Sweden vs Slovakia 15:20 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="czechiavscanada1920tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Czechia vs Canada 19:20 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvsfinland1920tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Switzerland vs Finland 19:20 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
