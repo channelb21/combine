@@ -22,9 +22,9 @@ https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MEntertainmentChannel.mm " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvLgqJiFy4b0IbqqBeyj-j903OjgUC7PnVg&s" group-title="Myanmar Tv" ,tvg-ID ME
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1909816536.m3u8
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" TVM.mm " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvm-mm.png" group-title="Myanmar Tv" ,TVM
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" TVM.mm " tvg-logo="https://i.postimg.cc/L5ynPGm8/tvm.png" group-title="Myanmar Tv" ,TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" GoldenLand.mm " tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-land-mm.png" group-title="Myanmar Tv" ,Golden Land
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" GoldenLand.mm " tvg-logo="https://i.postimg.cc/TPXYKTnq/golden-land.png" group-title="Myanmar Tv" ,Golden Land
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="formula11230skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 12:30 (SKY SPORTS FHD)
@@ -113,41 +113,23 @@ https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
-#EXTINF:-1 tvg-id="irelandvsnewzealand1100willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Ireland vs New Zealand 11:00 (WILLOW  Ad-Free )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=738abe1e048c4c1457e592cd5fe781b5:ef5e8ef6ce1f0b5813911212673969d2
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6le5p4wncm/out/v1/276f12039b4d4fb2a85693c85b6e7bb2/cenc.mpd
 #EXTINF:-1 tvg-id="irelandvsnewzealand1100tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Ireland vs New Zealand 11:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #EXTINF:-1 tvg-id="irelandvsnewzealand1100skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Ireland vs New Zealand 11:00 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
-https://dice-live-oc.akamaized.net/hdntl=exp=1779962653~acl=%2F*~id=074b6311-83b3-40e2-807d-a54c83beae51~data=hdntl,aXA9MTcyLjIxMC4xNDkuNTQmZXhwPTE3Nzk4NzYyODMmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1jM2dFV018MTYxODVhNTYtODFiZS00NWQ3LTk3YjYtOWI5N2E3ZTE3YjIyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=f45dd7d9d58a6b10d845f02083b9b895ae3b2a14aca814558db8f97baabb02af/dash/live/2093715/219027-321028/manifest-d.mpd
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (TNT SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://dice-live-oc.akamaized.net/hdntl=exp=1779983862~acl=%2F*~id=ff48809a-1ed0-485b-8e2c-05b8ca345bdb~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0OTImZWlkPTk2MzI0MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=43b4cb5bdc5747d5cc9a966de9e41b3439b2d750fbf8fc742200802ada806293/dash/live/2093710/219026-321025/manifest-d.mpd
+#EXTINF:-1 tvg-id="englandwvsnewzealandw1830skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England W vs New Zealand W 18:30 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 tvg-id="leicestershirevsderbyshire1830skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Leicestershire vs Derbyshire 18:30 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e424-4ede-b44a-01bd82701425~data=hdntl,aXA9MTcyLjE4My44OS4zNCZleHA9MTc3OTY4MjcyMCZlaWQ9OTYyNjYyJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW5yS25IaXxhNDE5NzJhMS1jOTk4LTQ1ZDAtYjg1NS05MmRlYjQwNzZmMmYmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=42e94e0a1e596b8894e65b2bbff7f8670440b0fc51955a8832857b9d1db43f1d/dash/live/2093710/219026-321025/manifest-d.mpd
+#EXTINF:-1 tvg-id="englandwvsnewzealandw1830skysports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England W vs New Zealand W 18:30 (SKY SPORTS 4k)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8
-https://dice-live-oc.akamaized.net/hdntl=exp=1779962653~acl=%2F*~id=074b6311-83b3-40e2-807d-a54c83beae51~data=hdntl,aXA9MTcyLjIxMC4xNDkuNTQmZXhwPTE3Nzk4NzYyODMmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1jM2dFV018MTYxODVhNTYtODFiZS00NWQ3LTk3YjYtOWI5N2E3ZTE3YjIyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=f45dd7d9d58a6b10d845f02083b9b895ae3b2a14aca814558db8f97baabb02af/dash/live/2093709/219033-321024/manifest-d.mpd
-#EXTINF:-1 tvg-id="leicestershirevsderbyshire1830willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Leicestershire vs Derbyshire 18:30 (Willow HD)
+#KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
+https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e424-4ede-b44a-01bd82701425~data=hdntl,aXA9MTcyLjE4My44OS4zNCZleHA9MTc3OTY4MjcyMCZlaWQ9OTYyNjYyJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW5yS25IaXxhNDE5NzJhMS1jOTk4LTQ1ZDAtYjg1NS05MmRlYjQwNzZmMmYmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=42e94e0a1e596b8894e65b2bbff7f8670440b0fc51955a8832857b9d1db43f1d/dash/live/2093666/294921-318514/manifest-d.mpd
+#EXTINF:-1 tvg-id="englandwvsnewzealandw1830willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England W vs New Zealand W 18:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="carolinahurricanes0100premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="carolinahurricanes0100espnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (ESPN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121
-https://dice-live-oc.akamaized.net/hdntl=exp=1779897264~acl=%2F*~id=fe9ca3a7-0756-445a-8ab8-af6f8e8ee337~data=hdntl,aXA9NTIuMjI1LjI1LjU1JmV4cD0xNzc5ODEwODk0JmVpZD05NjMyNDImb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9dDc5TldpfDFjNTg3MGRlLTdiNzMtNDJiYS1iNzkyLTUwYWNkODMzZTlhZCZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=d584e6cbd0e1a708df4a963d9f5d62a02279446e5e240e969b1298a9c05d27fc/dash/live/2093724/219039-321035/manifest-d.mpd
-#EXTINF:-1 tvg-id="carolinahurricanes0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (HD SERVER)
-https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="jamaicavsindia1930fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Jamaica vs India 19:30 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
