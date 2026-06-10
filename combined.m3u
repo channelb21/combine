@@ -12,7 +12,7 @@ https://pplive.comquas.com:5443/LiveApp/streams/9AUG8Y4aKVmk1762750828463.m3u8
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MaharTV.mm " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Mahar_TV_logo.npg.png" group-title="Myanmar Tv" ,Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MaharEsports.mm " tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png" group-title="Myanmar Tv" ,Mahar ESport
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MaharEsports.mm " tvg-logo="https://i.postimg.cc/wM9PRGRb/mahar-logo.png" group-title="Myanmar Tv" ,Mahar ESport
 https://tv.mahar.live/mahar/fd7f0e4ec56046e91c32ba18110a0540.sdp/playlist.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" FortuneTV.mm " tvg-logo="https://i.postimg.cc/qqHvMTwF/1743317027293.png" group-title="Myanmar Tv" ,Fortune
 https://fortune-proxy.channelbur21.workers.dev/
