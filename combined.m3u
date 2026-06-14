@@ -26,15 +26,15 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w190981
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" GoldenLand.mm " tvg-logo="https://i.postimg.cc/TPXYKTnq/golden-land.png" group-title="Myanmar Tv" ,Golden Land
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", FIFA WORLD CUP 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1Wvy09C/1000283988.png", FIFA WORLD CUP 2026
 http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", FIFA WORLD CUP 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1Wvy09C/1000283988.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nMBnLS9h/1000284536.png", FIFA WORLD CUP 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TD6fkDPj/1000284537.png", FIFA WORLD CUP 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TD6fkDPj/1000284537.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nMBnLS9h/1000284536.png", FIFA WORLD CUP 2026 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png", FIFA WORLD CUP 2026 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C32Rhtff/1000284518.png", FIFA WORLD CUP 2026 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
