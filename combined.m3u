@@ -6,7 +6,7 @@ https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/index.m3u8
 https://live-stream.dvb.no/hls/stream_higher/index.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" VOAnews.com " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/330px-VOA_logo.svg.png" group-title="Myanmar Tv" ,VOA
 https://voa-video-hls-ns.akamaized.net/pangeavideo/2025/03/e/eb/eb812b56-3898-4d0b-8e09-01ef70829123_master.m3u8
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" mizzima.tv " tvg-logo="https://i.postimg.cc/5NHfJPDq/mizzima.png" group-title="Myanmar Tv" ,Mizzima
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" mizzima.tv " tvg-logo="https://i.postimg.cc/pXYQCZLy/mizzima.png" group-title="Myanmar Tv" ,Mizzima
 https://mizzima-live.b-cdn.net/LiveApp/streams/VvEsAki51zxwgfA41691620980312.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MRTV4.mm " tvg-logo="https://static-content-glb.solocoo.tv/epg/live/myanmar/channelicons/MRTV-4%20HD_m.png" group-title="Myanmar Tv" ,MRTV-4
 https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/index.m3u8
@@ -32,9 +32,9 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Myanmar Music" tvg-logo="https://s3.ap-southeast-1.amazonaws.com/data.bitmyanmar.info/snsmusic/album_cover/minthae.png" group-title="Musics",မင်သေ့
 https://middleway.dpdns.org/Mhin%20Thae/%E1%80%99%E1%80%84%E1%80%BA%E1%80%9E%E1%80%B1%E1%80%B7.mp4
 # --- SERIES အပိုင်း (Series ထဲမှာ သပ်သပ်ပေါ်နေမယ်) ---
-#EXTINF:-1 tvg-id="" tvg-name="Doctor X: Mafia in White S01E01" tvg-logo="https://i.postimg.cc/ydR259w4/doctor-x.jpg" group-title="Series | Doctor X: Mafia in White | Season 1",Doctor X S01E01
+#EXTINF:-1 tvg-id="" tvg-name="Doctor X: Mafia in White S01E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM5MDRkZGItNjMyZi00M2VlLWJlNzEtZmNhOWNmNDExM2RmXkEyXkFqcGc@._V1_.jpg" group-title="Series | Doctor X: Mafia in White | Season 1",Doctor X S01E01
 https://middleway.dpdns.org/Doctor%20X%20(2026)/Doctor%20X-Mafia%20in%20White%20(2026)%20E01%20WEB-DL%201080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doctor X: Mafia in White S01E02" tvg-logo="https://i.postimg.cc/ydR259w4/doctor-x.jpg" group-title="Series | Doctor X: Mafia in White | Season 1",Doctor X S01E02
+#EXTINF:-1 tvg-id="" tvg-name="Doctor X: Mafia in White S01E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM5MDRkZGItNjMyZi00M2VlLWJlNzEtZmNhOWNmNDExM2RmXkEyXkFqcGc@._V1_.jpg" group-title="Series | Doctor X: Mafia in White | Season 1",Doctor X S01E02
 https://middleway.dpdns.org/Doctor%20X%20(2026)/Doctor%20X-Mafia%20in%20White%20(2026)%20E01%20WEB-DL%201080p.mp4
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="wwe0100tsnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 01:00 (TSN SPORTS)
