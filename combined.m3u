@@ -25,9 +25,9 @@ https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MEntertainmentChannel.mm " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvLgqJiFy4b0IbqqBeyj-j903OjgUC7PnVg&" group-title="Myanmar Tv" , ME
 https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" TVM.mm " tvg-logo="https://i.postimg.cc/L5ynPGm8/tvm.png" group-title="Myanmar Tv" ,TVM
-https://m3u8-proxy-delta.vercel.app/api/proxy?url=http://203.81.84.130/hls/mwd_serie/index.m3u8
+https://stream.tatoes.dpdns.org/hls/mwd_serie/index.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" GoldenLand.mm " tvg-logo="https://i.postimg.cc/TPXYKTnq/golden-land.png" group-title="Myanmar Tv" ,Golden Land
-https://m3u8-proxy-delta.vercel.app/api/proxy?url=http://203.81.84.130/hls/mwd_document/index.m3u8
+https://stream.tatoes.dpdns.org/hls/mwd_document/index.m3u8
 # --- MUSICS
 #EXTINF:-1 tvg-id="" tvg-name="Myanmar Music" tvg-logo="https://s3.ap-southeast-1.amazonaws.com/data.bitmyanmar.info/snsmusic/album_cover/minthae.png" group-title="Musics",မင်သေ့
 https://middleway.dpdns.org/Mhin%20Thae/%E1%80%99%E1%80%84%E1%80%BA%E1%80%9E%E1%80%B1%E1%80%B7.mp4
